@@ -1,7 +1,5 @@
 # Mini-Project--Application-of-NN
 
-
-(Expected the following details in the report )
 ## Project Title:  SPEECH EMOTION RECOGNITION
 ## Project Description :
   The act of attempting to understand human emotion and affective states from speech is known as Speech Emotion Recognition, or SER. This takes use of the fact that tone and pitch in the voice often indicate underlying emotion. Because emotions are subjective and annotating audio is difficult, SER is difficult. It basically aids the user in determining what type of feeling they are experiencing at the moment.
